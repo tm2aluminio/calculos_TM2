@@ -2,18 +2,18 @@
 
 Calculadoras e documentos técnicos da TM2 Alumínio para dimensionamento de esquadrias.
 
-Página dos aplicativos: https://tm2aluminio.github.io/calculos_tm2/
+Página dos aplicativos: https://tm2aluminio.github.io/calculos_TM2/
 
 ## Aplicativos
 
 | App | Para que serve | Abrir |
 |---|---|---|
-| **Pressão de Ensaio** | Define Pe, Ps e Pa (em Pa e km/h) conforme a ABNT NBR 10821-2:2023 e calcula o momento de inércia necessário, a reação nos apoios e a flecha da barra | [PressaoEnsaio.html](https://tm2aluminio.github.io/calculos_tm2/PressaoEnsaio.html) |
-| **Cálculo Estrutural** | Cálculo estrutural de vigas de esquadrias, com diagramas que se atualizam conforme os dados são digitados (conversão da planilha CalcEst) | [CalcEstrutural.html](https://tm2aluminio.github.io/calculos_tm2/CalcEstrutural.html) |
+| **Pressão de Ensaio** | Define Pe, Ps e Pa (em Pa e km/h) conforme a ABNT NBR 10821-2:2023 e calcula o momento de inércia necessário, a reação nos apoios e a flecha da barra | [PressaoEnsaio.html](https://tm2aluminio.github.io/calculos_TM2/PressaoEnsaio.html) |
+| **Cálculo Estrutural** | Cálculo estrutural de vigas de esquadrias, com diagramas que se atualizam conforme os dados são digitados (conversão da planilha CalcEst) | [CalcEstrutural.html](https://tm2aluminio.github.io/calculos_TM2/CalcEstrutural.html) |
 
 ## Manual
 
-- **Manual de uso da Pressão de Ensaio**: conceitos (vento, Pe/Ps/Pa, classificação, situação especial, momento de inércia e flecha), passo a passo e exemplo completo. [ManualPressaoEnsaio.html](https://tm2aluminio.github.io/calculos_tm2/ManualPressaoEnsaio.html)
+- **Manual de uso da Pressão de Ensaio**: conceitos (vento, Pe/Ps/Pa, classificação, situação especial, momento de inércia e flecha), passo a passo e exemplo completo. [ManualPressaoEnsaio.html](https://tm2aluminio.github.io/calculos_TM2/ManualPressaoEnsaio.html)
 
 ## Como usar
 
